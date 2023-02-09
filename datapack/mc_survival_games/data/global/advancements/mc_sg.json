@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "mc_survival_games",
+        "description": "A Datapack to play a Surival-Game like Playmode!",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'seba007'}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

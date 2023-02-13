@@ -1,6 +1,6 @@
-##
- # main.mcfunction
- # mc_sg
- #
- # Created by seba007.
-##
+#
+#> main.mcfunction
+# mc_sg
+# Gets called every tick
+# Created by seba007.
+#
